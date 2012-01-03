@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/maudite/_dev/history_beer'
-let g:netrw_dirhist_2='/Users/maudite'
-let g:netrw_dirhist_3='/Users/maudite/_dev/overview'
-let g:netrw_dirhist_4='/Users/maudite/_dev/pointup'
