@@ -235,11 +235,11 @@ else
     hi Error           guifg=#e37170 guibg=#332323 gui=none
 endif
 
-if exists("g:zenburn_alternate_Include")
-    " original setting
-    hi Include         guifg=#ffcfaf gui=bold
-else
-    " new, less contrasted one
-    hi Include         guifg=#dfaf8f gui=bold
-endif
-    " TODO check every syntax group that they're ok
+/*if exists("g:zenburn_alternate_Include")*/*/*/
+    /*" original setting*/*/
+    /*/*hi Include         guifg=#ffcfaf gui=bold*/*/
+/*else*/*/
+    /*" new, less contrasted one*/*/
+    /*/*hi Include         guifg=#dfaf8f gui=bold*/*/
+/*endif*/*/
+    /*" TODO check every syntax group that they're ok*/*/
