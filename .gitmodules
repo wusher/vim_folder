@@ -103,3 +103,12 @@
 [submodule "bundle/yaml-vim"]
 	path = bundle/yaml-vim
 	url = https://github.com/ingydotnet/yaml-vim.git
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = git@github.com:derekwyatt/vim-scala.git
+[submodule "bundle/vim-easy-align"]
+	path = bundle/vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align.git
+[submodule "bundle/vin/vinegar"]
+	path = bundle/vin/vinegar
+	url = git@github.com:tpope/vim-vinegar.git
